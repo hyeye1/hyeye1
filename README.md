@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 ### About Hye
 
 <p>
-	<a href="https://www.instagram.com/hyexox/">
-	<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyexox/"/>
+	<a href="https://dogpaws.tistory.com/">
+        <img src="https://img.shields.io/badge/tistory-EE4C2C?style=flat-square&logo=Thingiverse&logoColor=white&link=https://dogpaws.tistory.com/"/>
 	</a>&nbsp;
 	<a href="https://github.com/hyeye1?tab=overview&from=2021-01-01&to=2021-01-09">
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white&link=https://www.instagram.com/hyexox/"/>
