@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 ### About Hye 🔍
 <p>	
-	<img alig src="https://img.shields.io/badge/-hye.93@hotmail.com-0078D4?style=flat-square&logo=Microsoft Outlook&logoColor=white" />&nbsp;
+	
+	<img alig src="https://img.shields.io/badge/-hye.93@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" />
+	&nbsp;
 	<a href="https://www.instagram.com/hyexox/">
 	<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hyexox/"/>
 	</a>&nbsp;
