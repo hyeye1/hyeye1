@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there, I'm Hye Jeong 👋 
-#### ✈ I previously worked as a cabin crew for <img src="https://img.shields.io/badge/Emirates-D71921?style=flat-square&logo=Emirates&logoColor=white"/></a> <br> 💻 Now, I'm dreaming of becoming a developer. <br><br> 📫 please reach me by <img alig src="https://img.shields.io/badge/-hye.93@hotmail.com-0078D4?style=flat-square&logo=MicrosoftOutlook&logoColor=white" />
+#### ✈ I previously worked as a cabin crew for <img src="https://img.shields.io/badge/Emirates-D71921?style=flat-square&logo=Emirates&logoColor=white"/></a> <br> 💻 Now, I'm dreaming of becoming a developer. <br><!--<br> 📫 please reach me by <img alig src="https://img.shields.io/badge/-hye.93@hotmail.com-0078D4?style=flat-square&logo=MicrosoftOutlook&logoColor=white" />-->
 
 <br><br>
 
