@@ -16,14 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there, I'm Hye Jeong 👋 
-#### ✈ I previously worked as a cabin crew for <img src="https://img.shields.io/badge/Emirates-D71921?style=flat-square&logo=Emirates&logoColor=white"/></a> <br> 💻 Now, I'm working as a developer. <br><!--<br> 📫 please reach me by <img alig src="https://img.shields.io/badge/-hye.93@hotmail.com-0078D4?style=flat-square&logo=MicrosoftOutlook&logoColor=white" />-->
+#### <br> ✈ I previously worked as a cabin crew for  <img src="https://img.shields.io/badge/Emirates-D71921?style=flat-square&logo=Emirates&logoColor=white"/></a> <br> <br> 💻 Now, I'm working as a web developer. <br> <br> 📚 I'm on track for learning more about  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+
+
+<!--<br> 📫 please reach me by <img alig src="https://img.shields.io/badge/-hye.93@hotmail.com-0078D4?style=flat-square&logo=MicrosoftOutlook&logoColor=white" />-->
+
 
 <br><br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeye1&show_icons=true&theme=graywhite)
-
-<br>
-
 ### About Hye
 
 <p>
@@ -47,11 +46,16 @@ Here are some ideas to get you started:
              <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a> &nbsp
              <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/></a> &nbsp <br>
              <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
+             <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
              <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp
              <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a> &nbsp
              <img src="https://img.shields.io/badge/Git-f05030?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp 
              <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a> &nbsp
-             <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black"/></a>
+             <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black"/></a> &nbsp
 </p>
+
+<br><br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeye1&show_icons=true&theme=graywhite)
 
 <br>
