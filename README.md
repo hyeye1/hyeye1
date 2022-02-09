@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 <!--<br> 📫 please reach me by <img alig src="https://img.shields.io/badge/-hye.93@hotmail.com-0078D4?style=flat-square&logo=MicrosoftOutlook&logoColor=white" />-->
 
 
-<br><br>
+<br>
+
 ### About Hye
 
 <p>
